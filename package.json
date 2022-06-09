@@ -1,0 +1,32 @@
+{
+  "name": "@ljt/base64-icon",
+  "version": "1.0.0",
+  "description": "get iconfont to base64",
+  "main": "bin/index.js",
+  "bin": {
+    "basic64Icon": "bin/index.js"
+  },
+  "scripts": {
+    "i": "node bin/index.js i",
+    "s": "node bin/index.js s",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:uni-pro/base64-icon.git"
+  },
+  "keywords": [
+    "iconfont",
+    "base64"
+  ],
+  "type": "module",
+  "author": "linjielinlin <993353454@qq.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.3.0",
+    "inquirer": "^8.2.4",
+    "ora": "^6.1.0",
+    "request": "^2.88.2"
+  }
+}

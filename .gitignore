@@ -1,0 +1,10 @@
+node_modules/
+yarn-error.log
+.DS_Store
+.history/
+.idea/
+/env
+*.zip
+/pnpm-lock.yaml
+dist/
+*.woff2
