@@ -1,6 +1,6 @@
 {
   "name": "@ljtool/base64-icon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get iconfont to base64",
   "main": "bin/index.js",
   "bin": {
