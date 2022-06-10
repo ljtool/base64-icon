@@ -4,7 +4,7 @@
   "description": "get iconfont to base64",
   "main": "bin/index.js",
   "bin": {
-    "basic64Icon": "bin/index.js"
+    "base64Icon": "bin/index.js"
   },
   "scripts": {
     "i": "node bin/index.js i",
